@@ -9,7 +9,7 @@ I am a software engineer and intermedia creative (musician, photographer, etc.) 
 
 *   🌍  I'm based in Brooklyn, NY
 *   ✉️  You can contact me at [tarathierry@gmail.com](mailto:tarathierry@gmail.com)
-*   🧠  I'm learning React, DS&A, and Bootstrap
+*   🧠  I'm learning DS&A and Bootstrap
 *   🤝  I'm open to collaborating on projects especially for the greater good
 
 ### Skills 
@@ -33,11 +33,8 @@ I am a software engineer and intermedia creative (musician, photographer, etc.) 
 </p>
                     
 ### Socials
-<p align="left">
-                          
-<a href="https://www.github.com/TaraT1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
+<p align="left">                          
+<a href="https://www.github.com/TaraT1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                          
 <a href="https://www.linkedin.com/in/tarathierry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
 <a href="https://www.twitter.com/TaraThierry1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
