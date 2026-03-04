@@ -9,7 +9,6 @@ I am a software engineer and intermedia creative (musician, photographer, etc.) 
 
 *   🌍  I'm based in Brooklyn, NY
 *   ✉️  You can contact me at [tarathierry@gmail.com](mailto:tarathierry@gmail.com)
-*   🧠  I'm learning DS&A and React
 *   🤝  I'm open to collaborating on projects especially for the greater good
 
 ### Skills 
